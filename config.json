@@ -2,5 +2,9 @@
     "title":"Nanananase's Blog",
     "subTitle":"MariaaaaOvO@outlook.com",
     "avatarUrl":"https://raw.githubusercontent.com/Nanananase/Nanananase.github.io/refs/heads/main/Nanase%20JPG.jpg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "email":"mariaaaaovo@outlook.com",
+    "startSite":"08/08/2025",
+    "onePageListNum":20,
+    "singlePage":["about"]
 }
