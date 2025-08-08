@@ -153,8 +153,8 @@ Steam版不知为何感觉玩起来略有卡顿，也不算卡顿，就是感觉
 var now=new Date();
 document.getElementById("copyrightYear").innerHTML=now.getFullYear();
 
-if(""!=""){
-    var startSite=new Date("");
+if("08/08/2025"!=""){
+    var startSite=new Date("08/08/2025");
     var diff=now.getTime()-startSite.getTime();
     var diffDay=Math.floor(diff/(1000*60*60*24));
     document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";
