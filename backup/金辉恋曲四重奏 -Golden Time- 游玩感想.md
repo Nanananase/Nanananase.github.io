@@ -20,4 +20,4 @@ Steam版不知为何感觉玩起来略有卡顿，也不算卡顿，就是感觉
 
 总体来说七分吧，算得上是好作品，但也不算很惊艳的那种
 # 我是真喜欢玲奈，为何不多关注关注玲奈
-<img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/2c86d15c-872c-4be1-86d4-fba8b79d5ce0" />
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/2c86d15c-872c-4be1-86d4-fba8b79d5ce0" />
