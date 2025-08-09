@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Nanananase's Blog</title><link>https://Nanananase.github.io</link><description>MariaaaaOvO@outlook.com</description><copyright>Nanananase's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/Nanananase/Nanananase.github.io/refs/heads/main/static/Nanase%20JPG.jpg</url><title>avatar</title><link>https://Nanananase.github.io</link></image><lastBuildDate>Sat, 09 Aug 2025 14:29:33 +0000</lastBuildDate><managingEditor>Nanananase's Blog</managingEditor><ttl>60</ttl><webMaster>Nanananase's Blog</webMaster><item><title>关于一些编曲尝试 （转调，终止式，弦乐）</title><link>https://Nanananase.github.io/post/guan-yu-yi-xie-bian-qu-chang-shi-%20%EF%BC%88-zhuan-diao-%EF%BC%8C-zhong-zhi-shi-%EF%BC%8C-xian-le-%EF%BC%89.html</link><description>这两天准备换换风格
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Nanananase's Blog</title><link>https://Nanananase.github.io</link><description>MariaaaaOvO@outlook.com</description><copyright>Nanananase's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://raw.githubusercontent.com/Nanananase/Nanananase.github.io/refs/heads/main/static/Nanase%20JPG.jpg</url><title>avatar</title><link>https://Nanananase.github.io</link></image><lastBuildDate>Sat, 09 Aug 2025 14:32:59 +0000</lastBuildDate><managingEditor>Nanananase's Blog</managingEditor><ttl>60</ttl><webMaster>Nanananase's Blog</webMaster><item><title>关于一些编曲尝试 （转调，终止式，弦乐）</title><link>https://Nanananase.github.io/post/guan-yu-yi-xie-bian-qu-chang-shi-%20%EF%BC%88-zhuan-diao-%EF%BC%8C-zhong-zhi-shi-%EF%BC%8C-xian-le-%EF%BC%89.html</link><description>这两天准备换换风格
 尝试不同的风格，使用不同的音色、元素之后，才能进步
 
 ## 今天下了一套Swam
@@ -7,14 +7,20 @@
 就是画包络确实麻烦，至少要画Expression，颤音和音高三条
 好像下了Sax，单簧管，小提琴，中提琴和竹笛这几个
 哦对，还有一套Section(和奏)
-目前只玩了玩Sax，Sax分好几个版本，高音(Soprano)，重音(Alto)，次中音(Tenor)，低音(bass ~好像是这个，记不清了~)
+目前只玩了玩Sax，Sax分好几个版本
+- 高音(Soprano)
+- 重音(Alto)
+- 次中音(Tenor)
+- 低音(bass ~好像是这个，记不清了~)
+
 回头再从B站找点教程看，感觉建模音源的可玩性极高
 就是这Swam有点贵啊，看了看淘宝，基本1k7~1k8一个插件
 就我今天下的这些，都上万了(Section好像5k+)
 
 ## 今天尝试使用了转调，运用了终止式
 Dm9 - G9sus4 - Cmaj9 - A7sus4 - A7 - G#m9 - C#9sus4 - F#maj9 - C7 - A7 (一次小尝试，可能思路并不是很好)
-前面就是正常的2516，然后硬转bG调（此处我的理解是，从五度圈中可以看到A下面bGm，因为最后一个和弦是A7，所以此处可硬转bG？）
+前面就是正常的2516，然后硬转bG调
+（此处我的理解是，从五度圈中可以看到A下面bGm，因为最后一个和弦是A7，所以此处可硬转bG？）
 转完调后还是常规251，因为第一个和弦是Dm9，我想给他构建一个251，所以最后的和弦我依然选择A7
 至于F#maj9和A7之间的和弦，我是选择看的五度圈，因为Am在C的下方，所以此处选择了C7（包含A#音）
 基本思路就是这样，记录一下，经过继续学习后，没准有天我看到今天写的这部分内容会嗤之以鼻，啊哈哈哈哈哈哈哈
@@ -22,7 +28,7 @@ Dm9 - G9sus4 - Cmaj9 - A7sus4 - A7 - G#m9 - C#9sus4 - F#maj9 - C7 - A7 (一次�
 其实本来想给Nanase写首歌来着，仿照 _惚気話_ ，想模仿一下这种浸入灵魂的Sax，啊哈哈哈哈哈哈哈
 最后放一个 _惚気話_ 的链接吧
 
-'Gmeek-html&lt;iframe frameborder='no' border='0' marginwidth='0' marginheight='0' width=420 height=86 src='//music.163.com/outchain/player?type=2&amp;id=1830389692&amp;auto=1&amp;height=66'&gt;&lt;/iframe&gt;'
+`Gmeek-html&lt;iframe frameborder='no' border='0' marginwidth='0' marginheight='0' width=420 height=86 src='//music.163.com/outchain/player?type=2&amp;id=1830389692&amp;auto=1&amp;height=66'&gt;&lt;/iframe&gt;`
 
 # 我是真喜欢Nanase
 
